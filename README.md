@@ -13,26 +13,38 @@
 **Give step**
 
 ```
-**code to run**
+**commands to run**
 ```
 
 **Next step**
 
 ```
-**code to run**
+**commands to run**
 ```
-
-**End with an example of getting some data out of the system or using it for a little demo.**
 
 ### Compiling
 
 **Give step**
 
 ```
-**code to run**
+**commands to run**
 ```
 
-**End with an example of getting some data out of the system or using it for a little demo.**
+### Running
+
+**Give step**
+
+```
+**commands to run**
+```
+
+### Testing
+
+**Give step**
+
+```
+**commands to run**
+```
 
 ## Deployment
 
