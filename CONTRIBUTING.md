@@ -58,9 +58,9 @@ For a longer more descriptive list, check out our club's [general style guidelin
 **A short style example**
 ```
 
-<!-- Below are the links that change from project to project -->
+<!-- Below are the links that change from project to project. PLEASE update them for your project!-->
 
 [Project Board]: 
 [Issues]: 
 [Beginner Issues]: 
-[Bug Issues]
+[Bug Issues]:
